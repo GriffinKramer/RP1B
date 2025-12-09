@@ -1,0 +1,3 @@
+tool	True Positives	False Positives	False Negatives	precision	recall
+bcftools	313	4	7	0.9873817034700315	0.978125
+snippy	312	5	8	0.9842271293375394	0.975
